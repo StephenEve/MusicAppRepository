@@ -12,6 +12,7 @@
     tools:context="com.github.admin.musicapp.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <!--Test-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
